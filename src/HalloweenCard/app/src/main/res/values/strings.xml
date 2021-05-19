@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Halloween Card</string>
+    <string name="happy_halloween">Happy Halloween</string>
+    <string name="card_background">Card Background</string>
 </resources>
