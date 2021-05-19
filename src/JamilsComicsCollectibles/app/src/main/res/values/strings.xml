@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Jamil\'s Comics &amp; Collectibles</string>
+    <string name="jamils_comics">Jamil\'s Comics</string>
+    <string name="about">Hi. We are the first dedicated Comics/Hobby shop in Bangladesh. We accept Visa debit/credit cards at store. We accept payment by bKash (our number is 01787-743-168). If you pay in advance and your amount is more than 500 taka we ship FREE by courier to your home. We specialize in Comics. Prices start from 70 taka for Bargain Comics. We also have Brand New Comics imported from the USA at Cover price. We charge 80 taka per US Dollar on cover. That includes VAT and all other charges. Thanks for your interest.</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="jamils_comics_mail_address">jamilscomics@gmail.com</string>
+    <string name="operation_time">Operation Time</string>
+    <string name="operation_time_details">10 AM - 8 PM</string>
+    <string name="jamil_comics_fb_link">facebook.com/jamilscomics</string>
 </resources>
